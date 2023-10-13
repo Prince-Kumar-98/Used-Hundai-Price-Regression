@@ -42,3 +42,6 @@ The primary goals of the project were:
 - ML
 
 ### CONCLUSION OF THE PROJECT
+
+![Screenshot 2023-10-13 134936](https://github.com/Prince-Kumar-98/Used-Hundai-Price-Regression/assets/138597778/eaaa91b5-51eb-416e-b029-0df797bc492a)
+
