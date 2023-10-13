@@ -15,6 +15,9 @@ The primary goals of the project were:
 
 ## Table of Contents
 - **CSV File**: This folder contains a CSV data file containing data for analysis.
-- **Jupyter Notebook**: This folder contains files which contain all the Python coding done for analysis.
+- **Jupyter Notebook**: This folder contains files that contain all the Python coding done for analysis.
 - **Presentation**: This is a PowerPoint presentation file that contains all major insights and conclusions.
 - **Word File**: This folder contains a document that provides the CSV document link and procedure instructions.
+
+## PROJECTS ROADMAP
+
