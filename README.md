@@ -21,3 +21,5 @@ The primary goals of the project were:
 
 ## PROJECTS ROADMAP
 
+![Screenshot 2023-10-13 134804](https://github.com/Prince-Kumar-98/Used-Hundai-Price-Regression/assets/138597778/745efcf1-29ef-4ae4-b47d-612ff20e06d2)
+
