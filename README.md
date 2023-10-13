@@ -21,5 +21,10 @@ The primary goals of the project were:
 
 ## PROJECTS ROADMAP
 
+![Screenshot 2023-10-13 141921](https://github.com/Prince-Kumar-98/Used-Hundai-Price-Regression/assets/138597778/ff5f71d6-44eb-4773-9bae-ad81f158b830)
+
+
 ![Screenshot 2023-10-13 134804](https://github.com/Prince-Kumar-98/Used-Hundai-Price-Regression/assets/138597778/745efcf1-29ef-4ae4-b47d-612ff20e06d2)
+
+### Histograms for categorical variables and Data Visualization
 
