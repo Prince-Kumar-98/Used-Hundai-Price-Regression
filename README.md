@@ -9,7 +9,7 @@ The primary goals of the project were:
 - To preprocess the data for further analysis.
 - To visualize the data for correlation between the variables.
 - Create necessary machine learning models using Python programming.
-- Compare accuracies of different ML models and find the one with higher accuracy.
+- Compare the accuracies of different ML models and find the one with higher accuracy.
 - Hyper-Parameter Tuning for accuracy improvement.
 - Conclusion
 
@@ -28,3 +28,17 @@ The primary goals of the project were:
 
 ### Histograms for categorical variables and Data Visualization
 
+![Screenshot 2023-10-13 134836](https://github.com/Prince-Kumar-98/Used-Hundai-Price-Regression/assets/138597778/588493cd-e992-4090-8f94-ca1c09f4fea1)
+
+
+![Screenshot 2023-10-13 134911](https://github.com/Prince-Kumar-98/Used-Hundai-Price-Regression/assets/138597778/697c2296-c8eb-40b8-a564-fdfdecdc3b1d)
+
+### Tools and Technology used:
+
+- Python.
+- Pandas.
+- Numpy.
+- Power BI.
+- ML
+
+### CONCLUSION OF THE PROJECT
